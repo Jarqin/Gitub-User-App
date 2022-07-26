@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="user">User</string>
+    <string name="image">Image</string>
+    <string name="search">Search</string>
+    <string name="_69_followers">69 Followers</string>
+    <string name="_69_following">69 Following</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="followers_string">%1$s \n Followers</string>
+    <string name="following_string">"%1$s \n Following"</string>
+    <string name="repository_string">"%1$s Repository</string>
+    <string name="favorite">Favorite</string>
+    <string name="theme">Theme</string>
+</resources>
